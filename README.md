@@ -2,7 +2,7 @@
 
 - The bot is trained with Google DialogFlow API
 - The API is accessed using Google Cloud API services
-
+- Frontend is built in Flutter
 
 # What this Bot do?
 
